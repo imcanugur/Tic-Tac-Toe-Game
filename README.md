@@ -1,4 +1,4 @@
-# Batarya Durumu 
+# XOX Game
  
 İlk geliştirmiş olduğum programlardan biri lise projesi olarak tasarlandı.
 Bazı amatör hataları mevcut lütfen mazur görün. 
